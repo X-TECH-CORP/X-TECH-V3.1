@@ -17,7 +17,7 @@ global.location = "Unired states,New York, Times Square," //ur location
 
 //new
 global.botname = 'X-TECH🔰' //ur bot name
-global.ownernumber = '2250500107362' //ur owner number
+global.ownernumber = '18097677081' //ur owner number
 global.ownername = 'X-TECH🔰' //ur owner name
 global.websitex = "https://youtu.be/X-TECH-CORP"
 global.wagc = "https://whatsapp.com/channel/0029VadaaRZK5cDOTh6sMD41"
@@ -25,8 +25,8 @@ global.themeemoji = '🪀'
 global.wm = "Xeon Bot Inc."
 global.botscript = 'https://github.com/X-TECH-CORP/X-TECH-V3.1' //script link
 global.packname = "X-TECH🔰"
-global.author = "X-TECH🔰\n\n+2250500107362"
-global.creator = "2250500107362:18@s.whatsapp.net"
+global.author = "X-TECH🔰\n\n+18097677081"
+global.creator = "18097677081@s.whatsapp.net"
 global.xprefix = ['🔞','🚯']
 global.premium = ["2250500107362"] // Premium User
 global.hituet = 0
